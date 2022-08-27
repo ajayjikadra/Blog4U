@@ -1,0 +1,29 @@
+.form-box input,
+textarea {
+    width: 50vw;
+    border: 2px solid black;
+    border-radius: 6px;
+    font-size: 17px;
+    font-family: var(--font-1);
+    margin: 7px 187px;
+    padding: 5px 10px;
+}
+
+.home-articles h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+.btn {
+
+    padding: 0px 28px;
+    font-family: var(--font-1);
+    border-color: 2px solid black;
+    border-radius: 6px;
+
+}
+
+.form-button {
+    margin-left: 15%;
+
+}
